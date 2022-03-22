@@ -1,5 +1,4 @@
 import Button from '@mui/material/Button';
-import p from '@rollup/plugin-dynamic-import-vars';
 import { useEffect, useState } from 'react';
 import { reproMusic, buscarUrl, track } from './musica';
 
